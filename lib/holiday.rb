@@ -84,13 +84,6 @@ def all_holidays_with_bbq(holiday_hash)
   end 
   puts array.join(", ")
   return array 
-end 
-  
-  
-  
-  
-  
-
 end
 
 
