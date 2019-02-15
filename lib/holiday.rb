@@ -66,6 +66,7 @@ def all_supplies_in_holidays(holiday_hash)
         thing = thing.capitalize!
       end 
       stuff = dayVar.join(" ")
+      string = supply.join(", ")
       puts " #{stuff}: #{supply}"
     end 
   end
